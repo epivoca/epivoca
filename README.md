@@ -19,8 +19,8 @@
   <img align="left" width="370" src="https://github-readme-stats.vercel.app/api?username=epivoca&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=epivoca&repo=dotfiles&theme=gotham&cache_seconds=2000" />
+<a href="https://github.com/epivoca/dotfiles">
+  <img align="right" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=epivoca&repo=dotfiles&theme=gotham" />
 </a>
 
 <br clear="all" />
