@@ -4,7 +4,7 @@
 ## Hello there!
 ### About me:
 
-- 🧙‍♂️ Full Stack Developer @ **Sber AI Center**
+- 🧙‍♂️ Software Engineer @ **Sber AI Center**
 - 🧗 Trying to make it out to the next climbing trip
 
 ### Links:
